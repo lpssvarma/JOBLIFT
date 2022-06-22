@@ -1,0 +1,22 @@
+h1{
+    background-color:darkblue;
+    color:deeppink;
+    text-align: center;
+    padding-left: 0;
+}
+h2{
+    text-align: center;
+}
+ul{
+  font-size:20px;
+  padding-left:30px;
+
+}
+ul li{
+    
+    list-style: none;
+    display: inline;
+}
+nav{
+    background-color: cadetblue;
+}
